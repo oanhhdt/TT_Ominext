@@ -1,2 +1,5 @@
 # TT_Ominext
-những ghi chéo thực tập ở Ominext
+Những ghi chép thực tập ở Ominext
+
+[Kiểm thử hộp đen](docs/KT_hopden.md)
+

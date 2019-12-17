@@ -1,10 +1,15 @@
+<a name="bai1"></a>
+
 # Các kỹ thuật kiểm thử hộp đen.
 
-# Mục lục.
+## Mục lục.
 
 [1. Khái niệm kiểm thử hộp đen](#khainiem)
+
 [2. Phân vùng tương đương](#tuongduong)
+
 [3. Phân tích giá trị biên](#giatribien)
+
 [4. Bảng quyết định](#bang)
 
 <a name=khainiem></a>
@@ -68,6 +73,7 @@ Nguyên tắc chọn giá trị biên:
 ### 4. Bảng quyết định.
 
 Bảng quyết định là một kỹ thuật test được sử dụng để kiểm tra các hành vi hệ thống (system behavior) với các cách kết hợp input đầu vào khác nhau và output sẽ được ghi lại dưới dạng bảng. 
+ *Ví dụ về bảng quyết định* 
 
 ![Ví dụ về bảng quyết định](../images/bang1.png)
 ![Ví dụ về bảng quyết định](../images/bang2.png)
